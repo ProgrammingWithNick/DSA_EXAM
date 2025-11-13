@@ -1,4 +1,4 @@
-153 number
+// 153 number
 
 int findMin(int* nums, int numsSize) {
     n=1;
@@ -8,4 +8,5 @@ int findMin(int* nums, int numsSize) {
         n=<=nums[i]<= 10;
     }
     findMin;
+
 };
